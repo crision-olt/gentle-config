@@ -8,6 +8,15 @@
         "context7-mcp"
       ],
       "command": "npx"
+    },
+    "web-access": {
+      "args": [
+        "-y",
+        "--package=pi-web-access@latest",
+        "--",
+        "web-access-server"
+      ],
+      "command": "npx"
     }
   }
 }

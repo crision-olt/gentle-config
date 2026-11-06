@@ -1,0 +1,13 @@
+{
+  "mode": "gentleman",
+  "variant": "learner",
+  "description": "Gentleman with visible orchestration: shows ODD phases, delegation triggers, memory operations, and decision reasoning as you work.",
+  "behavior": {
+    "showOddPhase": true,
+    "showDelegationReason": true,
+    "showMemoryOperations": true,
+    "showDecisionReasoning": true,
+    "showTaskSizeClassification": true,
+    "showRiskAssessment": true
+  }
+}
